@@ -1,0 +1,31 @@
+{
+  "name": "oey",
+  "version": "0.0.1",
+  "author": "Oytun Emre Yucel <oytuneyucel@gmail.com>",
+  "license": "MIT",
+  "description": "An Adventureless Text Adventure",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oytuneyucel/oey.git"
+  },
+  "keywords": [
+    "oytun",
+    "oytuneyucel",
+    "oey"
+  ],
+  "bin": {
+    "oey": "oey.js"
+  },
+  "homepage": "https://github.com/oytuneyucel",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "inquirer": "^7.3.2",
+    "open": "^7.0.4",
+    "word-wrap": "^1.2.3"
+  },
+  "main": "bin/oey.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
