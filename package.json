@@ -14,7 +14,7 @@
     "oey"
   ],
   "bin": {
-    "oey": "oey.js"
+    "oey": "bin/oey.js"
   },
   "homepage": "https://github.com/oytuneyucel",
   "dependencies": {
